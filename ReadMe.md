@@ -3,7 +3,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=39FF14&center=true&vCenter=true&width=620&lines=Backend+dev+by+day%2C+system+thinker+by+nature.+%F0%9F%A7%A0;Building+microservices+that+actually+scale.+%F0%9F%9A%80;Clean+code.+Distributed+systems.+Real+impact.+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=39FF14&center=true&vCenter=true&width=620&lines=Computer+Science+Engineering+Student+%F0%9F%8E%93;Passionate+about+tech%2C+curious+about+everything.+%F0%9F%94%A5;Always+learning%2C+always+growing.+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <br/>
