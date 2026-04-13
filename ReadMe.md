@@ -3,7 +3,8 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=39FF14&center=true&vCenter=true&width=620&lines=Computer+Science+Engineering+Student+%F0%9F%8E%93;Curious+about+everything.+%F0%9F%94%A5;Always+learning%2C+always+growing.+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=39FF14&center=true&vCenter=true&width=620&lines=Computer+Science+Engineering+Student+%F0%9F%8E%93;Passionate+about+tech%2C+curious+about+everything.+%F0%9F%94%A5;Always+learning%2C+always+growing.+%E2%9C%A8" alt="Typing SVG" />
+
 </div>
 
 <br/>
@@ -12,10 +13,10 @@
 
 ## 💫 About Me
 
-🎓 Computer Science Engineering student in DIC1 at **UCAD/ESP** (Dakar), after earning a DUT at **ESP** —
+🎓 Computer Science Engineering student at **UCAD** (Dakar), after earning a DUT at **ESP** —
 two schools that taught me to **think before I code**.
 
-💻 Full Stack Developer, designing microservices architectures and
+💻 Backend Developer at **Engy-Partners**, designing microservices architectures and
 obsessing over how distributed systems communicate, scale, and hold up under pressure.
 
 🛠️ I gravitate toward clean, decoupled, maintainable systems — APIs that make sense,
@@ -38,54 +39,111 @@ services that do one thing well.
 
 ---
 
-## 💻 Tech Stack
+<details open>
+<summary><h2>💻 Tech Stack</h2></summary>
 
-**Languages**
+<h3>⚡ Core Technologies</h3>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65"/>
+</div>
 
-**Backend & APIs**
+<br/>
 
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+<h3>🔧 Backend & APIs</h3>
 
-**Frontend**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI"/>
+  <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ"/>
+</div>
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<br/>
 
-**Databases**
+<h3>🎨 Frontend</h3>
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS"/>
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"/>
+</div>
 
-**DevOps & Tools**
+<br/>
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+<h3>🗄️ Databases</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis"/>
+  <img src="https://skillicons.dev/icons?i=oracle" width="48" height="48" alt="Oracle"/>
+</div>
+
+<br/>
+
+<h3>⚙️ DevOps & Tools</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions"/>
+  <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/>
+</div>
+
+</details>
 
 ---
 
-## 📊 GitHub Stats
+<details open>
+<summary><h2>📊 GitHub Stats</h2></summary>
 
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=Arahmane1007&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
 ![](https://nirzak-streak-stats.vercel.app/?user=Arahmane1007&theme=dark&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arahmane1007&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+</div>
+
+</details>
+
+---
+
+<details>
+<summary><h2>🏆 Trophies & Activity</h2></summary>
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Arahmane1007&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+
+### 📈 Activity Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=Arahmane1007&bg_color=0d1117&color=39ff14&line=145a32&point=39ff14&hide_border=true)
+
+### 🔝 Top Contributed Repos
+![](https://github-contributor-stats.vercel.app/api?username=Arahmane1007&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
+
+</details>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Arahmane1007/Arahmane1007/output/github-contribution-grid-snake-dark.svg" alt="snake gif"/>
 </div>
 
 ---
@@ -98,6 +156,6 @@ services that do one thing well.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:145a32,50:0a3d1f,100:0d1117&height=120&section=footer" width="100%"/>
 
-<sub><i>« As long as I live, there are infinite chances. »</i> &nbsp;·&nbsp; Monkey D. Luffy</sub>
+<sub><i>« As long as I live, there are infinite chances. »</i> &nbsp;·&nbsp; Monkey D. Luffy 🏴‍☠️</sub>
 
 </div>
