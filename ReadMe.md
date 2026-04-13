@@ -13,8 +13,7 @@
 
 ## 💫 About Me
 
-🎓 Computer Science Engineering student at **UCAD** (Dakar), after earning a DUT at **ESP** —
-two schools that taught me to **think before I code**.
+🎓 Computer Science Engineering student in DIC1 at **UCAD/ESP** (Dakar), after earning my DUT at the same establishment that taught me to **think before I code**.
 
 💻 Backend Developer at **Engy-Partners**, designing microservices architectures and
 obsessing over how distributed systems communicate, scale, and hold up under pressure.
