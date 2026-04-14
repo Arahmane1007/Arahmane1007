@@ -103,15 +103,15 @@ services that do one thing well.
 ---
 
 <details open>
-<summary><h2>📊 GitHub Stats</h2></summary>
+## 📊 GitHub Stats
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Arahmane1007&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats-fast.vercel.app/api?username=Arahmane1007&theme=dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Arahmane1007&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arahmane1007&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Arahmane1007&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
 
