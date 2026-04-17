@@ -103,7 +103,7 @@ services that do one thing well.
 ---
 
 <details open>
-<h2>📊 GitHub Stats</h2> 
+<summary><h2>📊 GitHub Stats</h2></summary>
 
 <div align="center">
 
