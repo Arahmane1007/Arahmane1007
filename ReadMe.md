@@ -41,65 +41,44 @@ services that do one thing well.
 <details open>
 <summary><h2>💻 Tech Stack</h2></summary>
 
+<div align="center">
+
 <h3>⚡ Core Technologies</h3>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65"/>
-</div>
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/>
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/>
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65"/>
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/>
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/>
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65"/>
 
-<br/>
+<br/><br/>
 
 <h3>🔧 Backend & APIs</h3>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js"/>
-  <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI"/>
-  <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ"/>
-</div>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,rabbitmq" />
 
-<br/>
+<br/><br/>
 
 <h3>🎨 Frontend</h3>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS"/>
-  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/>
-  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"/>
-</div>
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
 
-<br/>
+<br/><br/>
 
 <h3>🗄️ Databases</h3>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis"/>
-  <img src="https://skillicons.dev/icons?i=oracle" width="48" height="48" alt="Oracle"/>
-</div>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,oracle" />
 
-<br/>
+<br/><br/>
 
 <h3>⚙️ DevOps & Tools</h3>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/>
-  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
-  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions"/>
-  <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel"/>
-  <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,postman" />
+
 </div>
 
 </details>
-
 ---
 
 <details open>
