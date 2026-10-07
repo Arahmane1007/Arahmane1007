@@ -123,12 +123,26 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ═══════════════════════ GITHUB STATS ═════════════════════════ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-## <img src="https://api.iconify.design/lucide:bar-chart-2.svg?color=%2339ff14" width="26" align="top"> Statistiques GitHub &amp; Langages</h2>
+## <img src="https://api.iconify.design/lucide:bar-chart-2.svg?color=%2339ff14" width="26" align="top"> Statistiques GitHub &amp; Performance
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arahmane1007&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=39ff14&icon_color=57e389&text_color=c9d1d9&hide_border=true&border_radius=12" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arahmane1007&layout=compact&langs_count=6&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9&hide_border=true&border_radius=12" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Arahmane1007&theme=tokyonight&background=0d1117&border_radius=12&stroke=145a32&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideLabels=94a3b8&currStreakNum=ffffff&sideNums=ffffff&dates=57e389&titleColor=39ff14&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
 
 <p align="center">
-  <img height="190" src="https://stats.pphat.top/languages?username=Arahmane1007&type=card" />
-  &nbsp;
-  <img height="190" src="https://stats.pphat.top/languages?username=Arahmane1007&type=pie" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FArahmane1007%3Fy%3Dall&query=%24.total%5B%222026%22%5D&label=Contributions%20This%20Year&color=39ff14&style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Contributions This Year" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FArahmane1007%3Fy%3Dall&query=%24.total%5B%222025%22%5D&label=Contributions%20Last%20Year&color=39ff14&style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Contributions Last Year" />
 </p>
 
 <br>
@@ -156,19 +170,9 @@
 <!-- ═══════════════════ MORE STATS & ACTIVITY ════════════════════ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <details>
-  <summary><h3 style="display:inline; cursor:pointer;">🏆 Graphiques Avancés, Streak &amp; Trophées (Cliquer pour dérouler)</h3></summary>
+  <summary><h3 style="display:inline; cursor:pointer;">🏆 Trophées &amp; Graphique d'Activité Détaillé (Cliquer pour dérouler)</h3></summary>
   
   <br><br>
-
-  <!-- DYNAMIC CONTRIBUTIONS COUNTER -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FArahmane1007%3Fy%3Dall&query=%24.total%5B%222026%22%5D&label=Contributions%20This%20Year&color=39ff14&style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Contributions This Year" />
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FArahmane1007%3Fy%3Dall&query=%24.total%5B%222025%22%5D&label=Contributions%20Last%20Year&color=39ff14&style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Contributions Last Year" />
-  </p>
-
-  <p align="center">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Arahmane1007&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
-  </p>
 
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Arahmane1007&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
