@@ -20,8 +20,8 @@
       </feMerge>
     </filter>
 
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;700&amp;display=swap');
+    <style><![CDATA[
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;700&display=swap');
 
       text {
         font-family: 'Fira Code', 'Courier New', monospace;
@@ -70,7 +70,7 @@
         animation: fadeInLayer 0.7s ease 0.45s both;
       }
 
-      /* Ongoing Pulsing & Packet Animations */
+      /* Ongoing Pulsing and Packet Animations */
       @keyframes pulseGlow {
         0%, 100% { opacity: 1; transform: scale(1); }
         50% { opacity: 0.3; transform: scale(0.9); }
@@ -106,7 +106,7 @@
         50%, 100% { opacity: 0; }
       }
       .cursor { animation: cursorBlink 0.9s infinite; }
-    </style>
+    ]]></style>
   </defs>
 
   <!-- FADE-IN WINDOW CONTAINER -->
@@ -167,7 +167,7 @@
     <rect x="235" y="135" width="60" height="30" class="diag-box" stroke="#39ff14" />
     <text x="265" y="154" class="diag-text" fill="#39ff14">CORE SVC</text>
 
-    <!-- Lower queue & db row -->
+    <!-- Lower queue and db row -->
     <line x1="265" y1="165" x2="265" y2="195" class="diag-line" />
     
     <!-- RabbitMQ broker -->
