@@ -2,7 +2,7 @@
 <!-- ═══════════════ CUSTOM ANIMATED TERMINAL HEADER ═══════════════ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Arahmane1007/Arahmane1007/main/header.svg" alt="Animated Terminal &amp; Distributed Systems Architecture" width="100%" />
+  <img src="https://raw.githubusercontent.com/Arahmane1007/Arahmane1007/main/header.svg?v=4" alt="Animated Terminal &amp; Distributed Systems Architecture" width="100%" />
 </p>
 
 <!-- STATUS & AVAILABILITY TYPING -->
