@@ -24,7 +24,7 @@ jobs:
           plugin_languages_indepth: yes
           committer_branch: metrics
           output_action: commit
-          commit_message: "chore: update metrics [skip ci]"
+          committer_message: "chore: update metrics [skip ci]"
 
       # Trophées (succès GitHub)
       - uses: lowlighter/metrics@latest
@@ -42,7 +42,7 @@ jobs:
           plugin_achievements_limit: 0
           committer_branch: metrics
           output_action: commit
-          commit_message: "chore: update achievements [skip ci]"
+          committer_message: "chore: update achievements [skip ci]"
 
       # Graphe d'activité (calendrier de contributions)
       - uses: lowlighter/metrics@latest
@@ -57,4 +57,4 @@ jobs:
           plugin_isocalendar_duration: full-year
           committer_branch: metrics
           output_action: commit
-          commit_message: "chore: update calendar [skip ci]"
+          committer_message: "chore: update calendar [skip ci]"
