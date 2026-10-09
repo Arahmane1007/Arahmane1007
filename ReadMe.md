@@ -173,7 +173,9 @@
   <br><br>
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/Arahmane1007/Arahmane1007/main/metrics.achievements.svg" alt="GitHub Achievements" />
+    <img src="https://img.shields.io/github/followers/Arahmane1007?style=for-the-badge&logo=github&color=39ff14&labelColor=0d1117" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/Arahmane1007?style=for-the-badge&logo=github&color=39ff14&labelColor=0d1117" alt="Stars" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FArahmane1007&query=%24.public_repos&label=Repositories&style=for-the-badge&logo=github&color=39ff14&labelColor=0d1117" alt="Repositories" />
   </p>
 
   <p align="center">
