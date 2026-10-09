@@ -1,0 +1,60 @@
+name: Generate Metrics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # Statistiques générales + langages + activité
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Arahmane1007
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Africa/Dakar
+          filename: metrics.stats.svg
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 8
+          plugin_languages_indepth: yes
+          committer_branch: metrics
+          output_action: commit
+          commit_message: "chore: update metrics [skip ci]"
+
+      # Trophées (succès GitHub)
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Arahmane1007
+          template: classic
+          base: ""
+          config_timezone: Africa/Dakar
+          filename: metrics.achievements.svg
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_limit: 0
+          committer_branch: metrics
+          output_action: commit
+          commit_message: "chore: update achievements [skip ci]"
+
+      # Graphe d'activité (calendrier de contributions)
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Arahmane1007
+          template: classic
+          base: ""
+          config_timezone: Africa/Dakar
+          filename: metrics.calendar.svg
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          committer_branch: metrics
+          output_action: commit
+          commit_message: "chore: update calendar [skip ci]"

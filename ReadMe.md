@@ -126,9 +126,7 @@
 ## <img src="https://api.iconify.design/lucide:bar-chart-2.svg?color=%2339ff14" width="26" align="top"> Statistiques GitHub &amp; Performance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arahmane1007&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=39ff14&icon_color=57e389&text_color=c9d1d9&hide_border=true&border_radius=12" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arahmane1007&layout=compact&langs_count=6&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9&hide_border=true&border_radius=12" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/Arahmane1007/Arahmane1007/metrics/metrics.stats.svg" alt="GitHub Stats" />
 </div>
 
 <br/>
@@ -175,11 +173,11 @@
   <br><br>
 
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Arahmane1007&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
+    <img src="https://raw.githubusercontent.com/Arahmane1007/Arahmane1007/metrics/metrics.achievements.svg" alt="GitHub Achievements" />
   </p>
 
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arahmane1007&bg_color=080c14&color=39ff14&line=145a32&point=39ff14&hide_border=true&radius=12" alt="Activity Graph" />
+    <img src="https://raw.githubusercontent.com/Arahmane1007/Arahmane1007/metrics/metrics.calendar.svg" alt="Activity Calendar" />
   </p>
 </details>
 
