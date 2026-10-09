@@ -46,7 +46,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 ## <img src="https://api.iconify.design/lucide:user.svg?color=%2339ff14" width="26" align="top"> À propos de moi
 
-<p><img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%2339ff14" width="20" align="top"> <strong>Élève Ingénieur en Informatique (DIC2)</strong> à l'<strong>École Supérieure Polytechnique de Dakar (UCAD / ESP)</strong>, après un DUT qui a forgé mon mot d'ordre : <em>« Think before you code »</em>.</p>
+<p><img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%2339ff14" width="20" align="top"> <strong>Élève Ingénieur en Genie Informatique (DIC2)</strong> à l'<strong>École Supérieure Polytechnique de Dakar (UCAD / ESP)</strong>, après un DUT qui a forgé mon mot d'ordre : <em>« Think before you code »</em>.</p>
 
 <p><img src="https://api.iconify.design/lucide:server.svg?color=%2339ff14" width="20" align="top"> <strong>Lead Developer chez BatouCloud</strong> &amp; <strong>Président de la Commission IT du CEE</strong>, je conçois des architectures en microservices et explore la façon dont les systèmes distribués communiquent, scalent et restent résilients sous haute charge.</p>
 
