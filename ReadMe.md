@@ -126,7 +126,7 @@
 ## <img src="https://api.iconify.design/lucide:bar-chart-2.svg?color=%2339ff14" width="26" align="top"> Statistiques GitHub &amp; Performance
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Arahmane1007/Arahmane1007/metrics/metrics.stats.svg" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/Arahmane1007/Arahmane1007/main/metrics.stats.svg" alt="GitHub Stats" />
 </div>
 
 <br/>
@@ -173,11 +173,11 @@
   <br><br>
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/Arahmane1007/Arahmane1007/metrics/metrics.achievements.svg" alt="GitHub Achievements" />
+    <img src="https://raw.githubusercontent.com/Arahmane1007/Arahmane1007/main/metrics.achievements.svg" alt="GitHub Achievements" />
   </p>
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/Arahmane1007/Arahmane1007/metrics/metrics.calendar.svg" alt="Activity Calendar" />
+    <img src="https://raw.githubusercontent.com/Arahmane1007/Arahmane1007/main/metrics.calendar.svg" alt="Activity Calendar" />
   </p>
 </details>
 
